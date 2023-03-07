@@ -18,6 +18,6 @@ This allows you to plan and structure your TODO list accordingly while showing y
 Used to plan out your work day. Works on any browser
 
 ### Credits 
-Refractored by Blake S
+Made by Blake S
 * W3schools.com
 * Youtube.com
